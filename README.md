@@ -33,12 +33,18 @@
 
 ## 각 페이지 화면
 
-* 학생수정
-  - 학생수정
+* 학생조회 - 페이징 처리
+    
+ ![학생목록](https://github.com/user-attachments/assets/5c120eca-bda5-4cb8-a8ef-763b8b183345)
+
+* 학생수정 및 삭제
   
 ![학생수정](https://github.com/user-attachments/assets/426ac024-edbb-4a4e-95ed-42aaf91b01a6)
 
-* 학생목록
-  - 학생목록
+* 학생등록
+
+![학생등록](https://github.com/user-attachments/assets/f88adbe0-bc32-497a-b6d4-24cd415ce887)
+
+* 학생목록 - 페이징 처리
     
  ![학생목록](https://github.com/user-attachments/assets/5c120eca-bda5-4cb8-a8ef-763b8b183345)
